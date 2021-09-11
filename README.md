@@ -10,7 +10,9 @@ Purpose: Understand and utilise the Apache Spark engine using Databricks to:
 Dataset: https://archive.ics.uci.edu/ml/datasets/HIGGS
 
 -Constructed basic pipelines trained on entire dataset
+
 -Used polynomial expansion to increase feature complexity and capture non-linear interactions between features
+
 -Compared performance on a scaled-up single node (244GB Memory, 32 Cores) * a scaled-out multi node cluster (1xDriver,8xWorker, worker node resources equivalent to singlenode) 
 
 Final Presentation (Presented infront of 40 peers): https://github.com/sambady3/BigDataProcessing-IdentifyingHiggsBoson/raw/main/Final%20Presentation.pptx
